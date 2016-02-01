@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+}
+h1 {
+	height: 100px;
+	background-color: darkcyan;
+	text-align: center;
+	width: 100%;
+	margin: 0;
+	padding-top: 30px;
+}
+
+h2 {
+	height: 100px;
+	background-color: darkcyan;
+	text-align: center;
+	width: 100%;
+	margin: 0;
+	bottom: 0;
+	position: fixed;
+	padding-top: 30px;
+}
+.explain {
+	text-align: center;
+	font-size: 5em;
+	text-shadow: 0.1em 0.1em #CAC5C5;
+}
+.texthome {
+	text-align: center;
+	font-size: 2em;
+	font-family: Times New Roman, serif;
+}
+.textcontact {
+	text-align: center;
+	font-size: 2em;
+	font-family: Times New Roman, serif;
+}
+.time {
+	text-align: center;
+	color: blue;
+	font-size: 1.2em;
+}
